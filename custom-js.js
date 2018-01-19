@@ -1,5 +1,8 @@
-function myFunction() {
-	console.log('Loaded');	
-    document.getElementById("refresh-button").innerHTML = "changed.";
-
-}
+// jQuery(document).ready(function($) {
+  $("#refresh-button").click( function()
+           {
+             alert('button clicked');
+           }
+        );
+      // }
+      
