@@ -1,5 +1,5 @@
 jQuery(document).ready(function($) {
-document.getElementById('refresh-button').onclick = function(){
+$('refresh-button').click(function(){
     console.log('Clicked');
     location.reload();
 }
