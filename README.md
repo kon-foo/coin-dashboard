@@ -1,4 +1,4 @@
-?raw=true# Dash/ Plotly Crypto Currency Dasboard
+# Dash/ Plotly Crypto Currency Dasboard
 
 This is a dashboard for Cryptocurrencies based on [plotly.js](https://plot.ly/) & [dash](https://plot.ly/products/dash/). It utilizes the [coinmarketcap API](https://coinmarketcap.com/api/) get the current prices of your coins and calculates the development of your assets based on your fiat investments. If you want to know more about the functionality and the different graphs, check out: 
 
